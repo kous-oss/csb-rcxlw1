@@ -1,0 +1,2 @@
+.App{height:100%;width:100%;display:flex}.top-pane{height:47%;top:0;background-color:#fff;display:flex;flex-basis:0;flex-grow:1;justify-content:space-evenly}.bottom-pane,.top-pane{position:absolute;width:inherit;padding:.5rem}.bottom-pane{bottom:0;height:48%;background-color:#34eec6}.editor-container{border:1px solid #000;width:31%;background-color:grey;overflow-y:scroll}.editor-header{padding:.5rem;height:12%;font-size:large;background-color:#ffebcd}.CodeMirror:first-of-type{display:none}
+/*# sourceMappingURL=main.6817cd44.chunk.css.map */

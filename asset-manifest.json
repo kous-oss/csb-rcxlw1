@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://kous-oss.github.io/csb-rcxlw1/static/css/main.6817cd44.chunk.css",
+    "main.js": "https://kous-oss.github.io/csb-rcxlw1/static/js/main.e84e709c.chunk.js",
+    "main.js.map": "https://kous-oss.github.io/csb-rcxlw1/static/js/main.e84e709c.chunk.js.map",
+    "runtime-main.js": "https://kous-oss.github.io/csb-rcxlw1/static/js/runtime-main.912b2497.js",
+    "runtime-main.js.map": "https://kous-oss.github.io/csb-rcxlw1/static/js/runtime-main.912b2497.js.map",
+    "static/css/2.956998bb.chunk.css": "https://kous-oss.github.io/csb-rcxlw1/static/css/2.956998bb.chunk.css",
+    "static/js/2.a6934224.chunk.js": "https://kous-oss.github.io/csb-rcxlw1/static/js/2.a6934224.chunk.js",
+    "static/js/2.a6934224.chunk.js.map": "https://kous-oss.github.io/csb-rcxlw1/static/js/2.a6934224.chunk.js.map",
+    "index.html": "https://kous-oss.github.io/csb-rcxlw1/index.html",
+    "static/css/2.956998bb.chunk.css.map": "https://kous-oss.github.io/csb-rcxlw1/static/css/2.956998bb.chunk.css.map",
+    "static/css/main.6817cd44.chunk.css.map": "https://kous-oss.github.io/csb-rcxlw1/static/css/main.6817cd44.chunk.css.map",
+    "static/js/2.a6934224.chunk.js.LICENSE.txt": "https://kous-oss.github.io/csb-rcxlw1/static/js/2.a6934224.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.912b2497.js",
+    "static/css/2.956998bb.chunk.css",
+    "static/js/2.a6934224.chunk.js",
+    "static/css/main.6817cd44.chunk.css",
+    "static/js/main.e84e709c.chunk.js"
+  ]
+}
